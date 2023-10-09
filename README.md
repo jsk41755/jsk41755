@@ -1,4 +1,5 @@
 ### 온 사람들이 행복하게 할 프로그램을 만드는 개발자 정승규 입니다! 👋
+### 주력은 안드로이드 개발, 현재는 KMP(Kotlin-Multiplatform)을 배우고 있습니다
 
 <!--
 **jsk41755/jsk41755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
