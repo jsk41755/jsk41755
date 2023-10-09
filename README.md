@@ -1,10 +1,14 @@
-<div align="center">
+
 ### 온 사람들이 행복하게 할 프로그램을 만드는 개발자 정승규 입니다! 👋
 ### 주력은 안드로이드 개발, 현재는 KMP(Kotlin-Multiplatform)을 배우고 있습니다
-</div>
 
-<!--
-**jsk41755/jsk41755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://img.shields.io/badge/kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+</div>
 
 Here are some ideas to get you started:
 
