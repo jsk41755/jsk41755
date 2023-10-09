@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=온 사람들이 행복하게 할 프로그램을 만드는 개발자 정승규 입니다! 👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome+to+Jeong-sg+GitHub!👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+
 
 ### 주력은 안드로이드 개발, 현재는 KMM(Kotlin-Multiplatform-Mobile)을 배우고 있습니다
 
