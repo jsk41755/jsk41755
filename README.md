@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome+to+Jeong-sg+GitHub!👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+### 안드로이드 개발을 배우고 있습니다!
 
-
-### 주력은 안드로이드 개발, 현재는 KMM(Kotlin-Multiplatform-Mobile)을 배우고 있습니다
+<!--### 주력은 안드로이드 개발, 현재는 KMM(Kotlin-Multiplatform-Mobile)을 배우고 있습니다-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
