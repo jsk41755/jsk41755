@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome+to+Jeong-sg+GitHub!👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-### 안드로이드 개발을 배우고 있습니다!
+### Knowledgeable and self-motivated computer science student with 2 years experience in Android development. Proficient in a range of modern technologies including Kotlin development and JAVA. Seeking for an working opportunity to utilize my skills and gain valuable real-world experience. In addition, the experience of implementing KMM(Kotlin-MultiPlatform-Mobile) in the project will enable high understanding and leading development.
 
 <!--### 주력은 안드로이드 개발, 현재는 KMM(Kotlin-Multiplatform-Mobile)을 배우고 있습니다-->
 
