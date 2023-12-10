@@ -42,13 +42,13 @@
 
 - 2022.06~2022.12 MINE LAB.@CBNU 기계 지능 연구실 학부 연구생
 - 2022.06 19기 IP기반 창업 교육 수료
-- 1st 공공데이터 활용 창업 경진대회 [기사 링크](https://www.ccdn.co.kr/news/articleView.html?idxno=782521&replyAll=&reply_sc_order_by=C)
+- 1st 공공데이터 활용 창업 경진대회 [대학저널](https://www.dhnews.co.kr/news/articleView.html?idxno=207654)
 
 <h3> 2021 </h3>
 
 - **제 8회 사회복무요원 대표**
 - 우수 사회복무요원 표창 / 충북지방병무청 / 이창영(충북지방병무청장) [KBS](https://www.youtube.com/watch?v=5WGRQXGKrdI&list=LL&index=89&t=1s)
-- 사회복무 대상(大賞) / 국방부 / 서욱(국방부장관) [국방NEWS](https://www.youtube.com/live/574Frsvs6O4?si=UxFEnXzLZBapZl9V)
+- 사회복무 대상(大賞) / 국방부 / 서욱(국방부장관) [국방 NEWS](https://www.youtube.com/live/574Frsvs6O4?si=UxFEnXzLZBapZl9V)
 - 소방 모바일 앱 제작 표창 / 충북지방병무청 / 이창영(충북지방병무청장) [SBS](https://youtu.be/aW7ZwkrNhCU?si=GsbLE10jNvZYIxbE)
 
 <h3> 2018 </h3>
