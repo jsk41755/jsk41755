@@ -28,6 +28,10 @@
 
 ### Experience
 
+<h3> 2024 </h3>
+
+- ETRI (한국전자통신연구원) 재직중
+
 <h3> 2023 </h3>
 
 - 2nd IP Inno-StartUp Festival
