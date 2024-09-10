@@ -30,7 +30,7 @@
 
 <h3> 2024 </h3>
 
-- 1st CJ대한통운 TES물류기술연구소 미래기술 챌린지 2024 금상 / [CJ대한통운](https://www.cjlogistics.com/ko/newsroom/news/NR_00001178)
+- 1st **CJ대한통운** TES물류기술연구소 미래기술 챌린지 2024 금상 / [CJ대한통운](https://www.cjlogistics.com/ko/newsroom/news/NR_00001178)
 - 2024.01.02~ 2024.02.29 **ETRI** (한국전자통신연구원 정부출연연구기관) 연구연수생
 
 <h3> 2023 </h3>
