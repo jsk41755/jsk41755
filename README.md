@@ -29,7 +29,8 @@
 ### Experience
 
 <h3> 2025 </h3>
-- ETRI(한국전자통신연구원) 부설 기업 ToBS Communication 입사
+
+- ETRI(한국전자통신연구원) 부설 기업 ToBS Communication 창립 멤버
 - Wavus 입사 및 퇴사
 - 메랜지지(Android)APP 구글 플레이스토어 배포
 
